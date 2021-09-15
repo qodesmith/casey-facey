@@ -1,0 +1,39 @@
+{
+  "name": "casey-facey",
+  "version": "1.0.0",
+  "description": "A React component to case-ify your text!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qodesmith/casey-facey.git"
+  },
+  "keywords": [
+    "case",
+    "caseify",
+    "case-ify",
+    "case anything",
+    "lol",
+    "camel",
+    "pascal",
+    "kebab",
+    "snake",
+    "constant",
+    "path",
+    "lol-case",
+    "camel-case",
+    "pascal-case",
+    "kebab-case",
+    "snake-case",
+    "constant-case",
+    "path-case"
+  ],
+  "author": "Qodesmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qodesmith/casey-facey/issues"
+  },
+  "homepage": "https://github.com/qodesmith/casey-facey#readme"
+}
